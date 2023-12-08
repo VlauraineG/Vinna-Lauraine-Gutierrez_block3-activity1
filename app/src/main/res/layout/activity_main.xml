@@ -7,6 +7,15 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="@string/simple_calculator"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:fontFamily="sans-serif-condensed-light"/>
+
     <EditText
         android:id="@+id/et_a"
         android:layout_width="match_parent"

@@ -7,4 +7,5 @@
     <string name="enter_second_number">Enter second number</string>
     <string name="enter_first_number">Enter first number</string>
     <string name="result">Result</string>
+    <string name="simple_calculator">SIMPLE CALCULATOR</string>
 </resources>
