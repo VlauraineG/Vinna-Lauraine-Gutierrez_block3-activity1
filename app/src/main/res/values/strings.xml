@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vinna-Lauraine-Gutierrez-Block3-Quiz</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="result">Result</string>
+</resources>
